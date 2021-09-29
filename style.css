@@ -1,0 +1,41 @@
+*{
+    margin:0;
+}
+
+html{
+    height: 150%;
+    background-color: blue;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 65px;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: darkblue;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+}
+
+img{
+    height: 200px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
